@@ -208,7 +208,7 @@ The proposed framework demonstrates:
 
 # 👨‍💻 Authors
 
-- **Uppalapati Venkata Ashok Adithya**
+- **Venkata Ashok Adithya**
 - **Swayangjyoti**
 - **Saisrija**
 
