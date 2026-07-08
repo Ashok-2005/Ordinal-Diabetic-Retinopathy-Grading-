@@ -212,10 +212,6 @@ The proposed framework demonstrates:
 - **Swayangjyoti**
 - **Saisrija**
 
-Summer Research Intern  
-Biomedical Signal and Image Processing (BSIP) Laboratory  
-National Institute of Technology (NIT) Rourkela
-
 ---
 
 # 📚 References
